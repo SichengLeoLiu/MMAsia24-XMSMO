@@ -5,7 +5,7 @@ This repository provides the implementation of the SITransformer model, as descr
 
 You can access the multimodal datasets used for training and evaluation through the following link:
 
-[Download Multimodal Data](https://drive.google.com/drive/folders/1jDs-uyZL8y70iZuC08IeROyXrfoUMgmU?usp=drive_link)
+[Download Dataset](https://drive.google.com/drive/folders/1jDs-uyZL8y70iZuC08IeROyXrfoUMgmU?usp=drive_link)
 
 Please create a folder called `data` and put all data inside.
 
